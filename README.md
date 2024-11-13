@@ -182,7 +182,7 @@ The casts to `char *` or `unsigned char *` are very important in order to have a
 
 This function is useful in scenarios where the source and destination memory areas might overlap.
 
-- if `dst` it the same as `src`, the functions returns immediately, as no action is needed.
+- if `dst` is the same as `src`, the functions returns immediately, as no action is needed.
 - if `dst` is located after `src` in memory, the functions copies the bytes from the end to the beginning to avoid overwriting the source.
 - if `dst` if located before `src`, the function copies the bytes from the beginning to the end.
 
