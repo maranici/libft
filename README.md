@@ -1,5 +1,13 @@
 # libft - Your own library
 
+The very first project of school 42. We learn how standard C functions work by coding them ourselves. Our own library that follows us throughout our journey.
+
+## Status
+
+Finished: 12/11/2024. Grade: 125/100.
+
+## Summary
+
 I will present the most important function in the alphabetical order.  
 Here the summary:
 
